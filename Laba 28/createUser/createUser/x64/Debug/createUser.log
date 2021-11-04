@@ -1,0 +1,7 @@
+﻿  createUser.cpp
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 28\createUser\createUser\createUser.cpp(4,1): warning C4005: UNICODE: изменение макроопределения
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 28\createUser\createUser\createUser.cpp : message : см. предыдущее определение "UNICODE"
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 28\createUser\createUser\createUser.cpp(22,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 28\createUser\createUser\createUser.cpp(23,8): error C2664: "BOOL CreateUser(PWSTR,PWSTR)": невозможно преобразовать аргумент 1 из "const wchar_t [8]" в "PWSTR"
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 28\createUser\createUser\createUser.cpp(23,21): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 28\createUser\createUser\createUser.cpp(10,6): message : см. объявление "CreateUser"
