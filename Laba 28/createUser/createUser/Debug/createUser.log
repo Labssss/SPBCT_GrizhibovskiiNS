@@ -1,0 +1,5 @@
+﻿  createUser.cpp
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 28\createUser\createUser\createUser.cpp(24,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 28\createUser\createUser\createUser.cpp(25,8): error C2664: "BOOL CreateUser(PWSTR,PWSTR)": невозможно преобразовать аргумент 1 из "const wchar_t [8]" в "PWSTR"
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 28\createUser\createUser\createUser.cpp(25,21): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+C:\Users\grizh\OneDrive\Desktop\СП\Laba 28\createUser\createUser\createUser.cpp(12,6): message : см. объявление "CreateUser"
