@@ -1,0 +1,5 @@
+﻿  ControlWork.cpp
+C:\Users\grizh\OneDrive\Desktop\СП\ControlWork\ControlWork\ControlWork.cpp(26,27): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\grizh\OneDrive\Desktop\СП\ControlWork\ControlWork\ControlWork.cpp(25,10): warning C4101: c: неиспользованная локальная переменная
+C:\Users\grizh\OneDrive\Desktop\СП\ControlWork\ControlWork\ControlWork.cpp(18,13): warning C4101: err: неиспользованная локальная переменная
+  ControlWork.vcxproj -> C:\Users\grizh\OneDrive\Desktop\СП\ControlWork\Debug\ControlWork.exe
