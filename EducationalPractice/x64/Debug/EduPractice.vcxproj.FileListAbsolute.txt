@@ -1,0 +1,4 @@
+C:\Users\grizh\OneDrive\Desktop\3 семестр\СП\Uchebnaya Praktika\EducationalPractice\Test\EducationalPractice\x64\Debug\EduPractice.vcxproj.AssemblyReference.cache
+C:\Users\grizh\OneDrive\Desktop\3 семестр\СП\Uchebnaya Praktika\EducationalPractice\Test\EducationalPractice\x64\Debug\EduPractice.MyForm.resources
+C:\Users\grizh\OneDrive\Desktop\3 семестр\СП\Uchebnaya Praktika\EducationalPractice\Test\EducationalPractice\x64\Debug\EduPractice.vcxproj.GenerateResource.cache
+C:\Users\grizh\OneDrive\Desktop\3 семестр\СП\Uchebnaya Praktika\EducationalPractice\Test\EducationalPractice\x64\Debug\EduPractice.exe
